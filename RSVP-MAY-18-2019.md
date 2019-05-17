@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## hadija shabani (Female)
 
-Fun fact: My web browser is vim-based.
+Fun fact: i love love swimming but my swimming custume is funny.
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [hadijashabani77@gmail.com](mailto:hadijashabani77@gmail.com)
+- GitHub [didykivoice](https://github.com/didykivoice)
+- Twitter [@dkivoice](https://twitter.com/didykivoice)
